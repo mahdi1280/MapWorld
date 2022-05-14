@@ -5,6 +5,7 @@ import Info from './Components/Info';
 import Summery from "./Components/Summery";
 import wiki from 'wikijs';
 
+
 export default function App() {
     const [countryName, setCountryName] = useState('iran');
     const [summery, setSummery] = useState();
