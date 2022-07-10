@@ -36,6 +36,7 @@ export default function App() {
     function handlerClick(name) {
         setCountryName(name);
     }
+    
 
     return <div className="container mt-3">
         <div className="row">
