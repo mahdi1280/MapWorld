@@ -7,6 +7,7 @@ import wiki from 'wikijs';
 
 
 export default function App() {
+    
     const [countryName, setCountryName] = useState('iran');
     const [summery, setSummery] = useState();
     const [info,setInfo] = useState();
